@@ -11,10 +11,16 @@
   
   <p><samp>I'm a fullstack software engineer, on a mission to build better software.</samp></p>
 
-  ![hello there](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif) | ![cats](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+<!--   ![hello there](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif) | ![cats](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) -->
 
+        
+
+
+<table style="width: 100%;"><tr>
+<td> <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" alt="Drawing" style="width: 100%%;"/> </td>
+<td> <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Drawing" style="width: 100%;"/> </td>
+</tr></table>
 </div>
-
 
 <!-- Details Section-->
 <details align="center">
